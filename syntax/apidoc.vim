@@ -38,6 +38,7 @@ syn match apidocType "\"string\""
 syn match apidocType "\"boolean\""
 syn match apidocType "\"double\""
 syn match apidocType "\"uuid\""
+syn match apidocType "\"date-time-iso8601\""
 syn match apidocType "\"\[[^\]]*\]\""
 
 syn match apidocResponseGood "\"20[0-9]\" *:"
