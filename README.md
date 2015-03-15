@@ -1,5 +1,5 @@
 # vim-apidoc
-Rudimentary syntax highlighting for apidoc.me API files
+Rudimentary syntax highlighting for [apidoc.me](http://www.apidoc.me) API files
 
 ```
 cd ~/.vim/bundle
